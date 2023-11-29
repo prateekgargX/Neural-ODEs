@@ -1,2 +1,15 @@
 # Neural-ODEs
-Repository containing work done as part of course EE782@iitb
+Flow:
+
+- Basics
+- [ ] A continuous depth neural network as ODE
+- [ ] Challenge: Differentiating through solver -- Adjunct Method
+- [ ] Benefits: -- -- --
+- [ ] Applications: Continuous-time normalizing flow, latent-variable model
+
+- Implementation on atleast 2 datasets
+- [ ] MNIST
+- [ ] -- --
+
+- Advanced Topics
+- [ ] 
