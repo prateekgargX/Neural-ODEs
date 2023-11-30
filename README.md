@@ -3,7 +3,7 @@ Flow:
 
 - Basics
 - [ ] A continuous depth neural network as ODE
-- [ ] Challenge: Differentiating through solver -- Adjunct Method
+- [ ] Challenge: Differentiating through solver -- [Adjunct Method](https://vaipatel.com/deriving-the-adjoint-equation-for-neural-odes-using-lagrange-multipliers/) 
 - [ ] Benefits: -- -- --
 - [ ] Applications: Continuous-time normalizing flow, latent-variable model
 
