@@ -1,15 +1,10 @@
 # Neural-ODEs
-Flow:
 
-- Basics
-- [ ] A continuous depth neural network as ODE
-- [ ] Challenge: Differentiating through solver -- [Adjunct Method](https://vaipatel.com/deriving-the-adjoint-equation-for-neural-odes-using-lagrange-multipliers/) 
-- [ ] Benefits: -- -- --
-- [ ] Applications: Continuous-time normalizing flow, latent-variable model
+An exposition into neural ordinary differential equations.
 
-- Implementation on atleast 2 datasets
-- [ ] MNIST
-- [ ] -- --
+## References:
 
-- Advanced Topics
-- [ ] 
+- [University of Amsterdam Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/)
+- [Mikhail Surtsukov's tutorial](https://github.com/msurtsukov/neural-ode/blob/master/Neural%20ODEs.ipynb)
+
+- [torchdiffeq documentation](https://github.com/rtqichen/torchdiffeq)
